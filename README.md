@@ -1,10 +1,14 @@
 # SQL Queries: From Fundamental to Advanced
 
+### Project Background
+
 This project focuses on building a dashboard to gain a comprehensive overview of the "Toys and Models" business. The main objective is to identify trends, areas of opportunity, and operational issues. The database contains detailed information about employees, products, orders, customers, and their payments.
 
 The database schema is as follows: 
 
 ![SQL](img/toys_and_models-db.png) 
+
+### Project Summary
 
 Our goal is to extract the necessary data, starting with fundamental questions and then moving towards a deeper, more strategic analysis.
 
