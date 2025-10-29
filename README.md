@@ -10,3 +10,19 @@ Our goal is to extract the necessary data, starting with fundamental questions a
 
 
 - **Database Connection**: Implement a modular, Object-Oriented (OOP) connection layer that supports multiple database engines (e.g., MySQL, PostgreSQL, SQLite). This approach allows flexible and reusable interaction with different data sources. The class definitions and credential configuration can be reviewed in the repository’s connection module.
+
+
+### Project Summary
+
+Our goal is to extract the necessary data, starting with fundamental questions and then moving towards a deeper, more strategic analysis.
+
+
+
+This repository includes:
+
+Exploration Schema (Phase 1): Identifying available tables, analyzing customer profiles, and quantifying core business metrics.
+
+Database Connection: Establish a connection to any relational database using an Object-Oriented Programming (OOP) architecture.
+Implementation details and credentials configuration can be reviewed in the connection module:
+👉 View Repository
+ (replace with your actual link)
