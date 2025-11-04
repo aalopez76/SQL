@@ -1,4 +1,3 @@
-
 # SQL Queries: From Fundamental to Advanced
 
 ### Project Background
@@ -10,7 +9,7 @@ The database contains detailed information about employees, products, orders, cu
 
 **Database Schema:**
 
-![Database Schema](img/toys_and_models-db.png)
+![Database Schema](docs/images/toys_and_models-db.png)
 
 ---
 
@@ -131,7 +130,22 @@ A full end-to-end analytical workflow — from SQL query to executive dashboard 
 
 ---
 
-**Next Steps**
-- Extend the analysis to predictive modeling using SQL and Python integration.  
+## Data Science Perspective
+
+This project reflects the mindset of a **data scientist working end-to-end** — from raw relational data to analytical storytelling.
+
+While database engineers design and optimize the systems that store data, a data scientist’s role is to:
+- **Access and integrate** data efficiently from multiple sources (SQL, APIs, or flat files),
+- **Transform and analyze** it to extract patterns, correlations, and business insights,
+- **Build predictive models** or decision-support tools based on those insights, and
+- **Communicate results** effectively through dashboards and reports.
+
+The use of **Object-Oriented Programming (OOP)** in this project is not to replicate the work of a database administrator but to:
+- Create a **modular and reproducible framework** for connecting to diverse data engines (SQLite, PostgreSQL, Oracle),
+- Allow seamless **scalability and automation** of analytical workflows,
+- And demonstrate how a data scientist can design a **maintainable and professional analysis pipeline** without depending on external systems.
+
+In essence, this repository represents a **scientific approach to applied data analytics**:  
+it bridges SQL engineering, analytical reasoning, and data-driven decision-making within a single, reproducible environment.
 - Connect the architecture to a PostgreSQL or cloud-based database.  
 - Deploy the Vizro dashboard as a live, interactive analytics application.
