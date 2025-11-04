@@ -1,0 +1,10 @@
+# Core dependencies
+pandas>=2.0.0
+plotly>=5.15.0
+vizro>=0.3.0
+typer>=0.9.0
+python-dotenv>=1.0.0
+
+# Optional (future extensions)
+# sqlalchemy>=2.0.0
+# duckdb>=0.10.0
