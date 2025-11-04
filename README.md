@@ -9,7 +9,7 @@ The database contains detailed information about employees, products, orders, cu
 
 **Database Schema:**
 
-![Database Schema](docs/images/toys_and_models-db.png)
+![Database Schema](img/toys_and_models-db.png)
 
 ---
 
